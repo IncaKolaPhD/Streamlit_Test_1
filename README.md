@@ -6,4 +6,4 @@ Minimal interactive test for exploring digital twin transcription factor perturb
 
 Click below to launch the interactive notebook:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IncaKolaPhD/Streamlit_Test_1/7_StreamLit/main?labpath=test_1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IncaKolaPhD/Streamlit_Test_1/7_StreamLit/test_1.ipynb)
